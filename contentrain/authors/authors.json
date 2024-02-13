@@ -1,13 +1,13 @@
 [
   {
     "ID": "6eb3fd97a1a8",
-    "createdAt": "Tue Feb 13 2024 14:14:00 GMT+0100 (Central European Standard Time)",
-    "updatedAt": "Tue Feb 13 2024 14:14:00 GMT+0100 (Central European Standard Time)",
-    "fullname": "özay özdemir",
+    "createdAt": "2024-02-13T13:14:00.000Z",
+    "updatedAt": "2024-02-13T13:15:12.040Z",
+    "status": "publish",
+    "fullname": "Özay Özdemir",
     "job": "Frontend Developer",
     "photoalt": "Ozay",
     "description": "Frontend developer from Sweden.",
-    "status": "publish",
     "scheduled": false
   },
   {
