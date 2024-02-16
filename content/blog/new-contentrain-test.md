@@ -1,7 +1,7 @@
 ---
 ID: "48fc52251319"
 createdAt: "2024-02-13T12:39:07.000Z"
-updatedAt: "2024-02-13T13:09:28.555Z"
+updatedAt: "2024-02-16T11:05:49.587Z"
 status: "publish"
 slug: "new-contentrain-test"
 title: "New Contentrain Test"
@@ -18,3 +18,5 @@ path: "content/blog"
 Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with
 
 ## Heading 2
+
+Test devam ediyor.
